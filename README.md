@@ -6,7 +6,7 @@ Soy Ingeniera Electrónica con cinco años de experiencia en desarrollo de negoc
 
 Después de completar un posgrado en Negocios Internacionales en Canadá, decidí fortalecer mi perfil profesional con formación en Data Analytics para complementar mi experiencia comercial con herramientas que apoyen la toma de decisiones.
 
-Me apasiona Encontrar soluciones que generen valor para las organizacioneS y construir relaciones de largo plazo.
+Me apasiona encontrar soluciones que generen valor para las organizacioneS y construir relaciones de largo plazo.
 
 ---
 
