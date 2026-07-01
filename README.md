@@ -36,6 +36,14 @@ Mi objetivo es integrar la estrategia comercial con el análisis de información
 - Python
 - Git & GitHub
 
+## Proyectos destacados
+
+📊 Análisis del desempeño de operadores de telecomunicaciones
+
+🚗 Análisis de vehículos en venta
+
+📈 Análisis de tendencias de videos en YouTube
+
 ## 🎓 Formación
 
 - Certificación en Data Analytics – TripleTen
