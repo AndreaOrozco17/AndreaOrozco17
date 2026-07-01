@@ -48,5 +48,4 @@ Mi objetivo es integrar la estrategia comercial con el análisis de información
 
 📧 andreav.orozcom@gmail.com
 
-💼 LinkedIn: linkedin.com/in/andrea-v-orozco-m
-
+💼 LinkedIn: https://www.linkedin.com/in/andrea-v-orozco-m/
